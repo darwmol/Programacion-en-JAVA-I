@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c2a566e-b0a0-4f0a-a24c-128575a3ee7a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/co/com/ps/TrabajoEnClase2.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cQgBpaZKdz8lFcWVSjBOElUDEP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Arreglos.executor": "Run",
+    "Application.Clase1Practica.executor": "Run",
+    "Application.Ejercicios.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SiSino.executor": "Run",
+    "Application.Sisino.executor": "Run",
+    "Application.TrabajoEnClase1.executor": "Run",
+    "Application.TrabajoEnClase3.executor": "Run",
+    "Application.TrabajoEnClase4.executor": "Run",
+    "Application.TrabajoEnClase5.executor": "Run",
+    "Application.co.com.ps.Ciclos.Main.executor": "Run",
+    "Application.co.com.ps.estructurasciclicasycontrol.SiSino.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programación de software/JAVA I/C22 - Trabajos en clase",
+    "onboarding.tips.debug.path": "C:/Users/darwi/IdeaProjects/C22/src/main/java/co/com/ps/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="QodanaReportsService">
+    <option name="descriptions">
+      <ReportDescription localRun="true" path="C:\Users\darwi\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="8141b795-5bca-4344-955d-0de5a45d1d7c" reportId="C22/qodana/2024-03-04" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TrabajoEnClase5">
+    <configuration name="Ejercicios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.ps.TrabajosEnClase.Ejercicios" />
+      <module name="C22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.ps.TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrabajoEnClase3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.ps.TrabajosEnClase.TrabajoEnClase3" />
+      <module name="C22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.ps.TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrabajoEnClase4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.ps.TrabajosEnClase.TrabajoEnClase4" />
+      <module name="C22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.ps.TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrabajoEnClase5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.ps.TrabajosEnClase.TrabajoEnClase5" />
+      <module name="C22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.ps.TrabajosEnClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="co.com.ps.Ciclos.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.ps.Ciclos.Main" />
+      <module name="C22" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.com.ps.Ciclos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TrabajoEnClase5" />
+        <item itemvalue="Application.Ejercicios" />
+        <item itemvalue="Application.co.com.ps.Ciclos.Main" />
+        <item itemvalue="Application.TrabajoEnClase4" />
+        <item itemvalue="Application.TrabajoEnClase3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-corretto-21.0.2-4caba194b151-51586f01" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c2a566e-b0a0-4f0a-a24c-128575a3ee7a" name="Changes" comment="" />
+      <created>1708049084607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708049084607</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/co/com/ps/estructurasciclicasycontrol/SiSino.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
